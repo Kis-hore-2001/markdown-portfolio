@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* hello
+* This is kishore
+* I like to code
+* bye
